@@ -1,0 +1,42 @@
+
+Abalone: 
+For the 1th iteration of the cross validation, the pruned accuracy is 0.5700598802395209
+For the 1th iteration of the cross validation, the non-pruned accuracy is 0.48622754491017967
+For the 2th iteration of the cross validation, the pruned accuracy is 0.5592814371257485
+For the 2th iteration of the cross validation, the non-pruned accuracy is 0.5365269461077844
+For the 3th iteration of the cross validation, the pruned accuracy is 0.5209580838323353
+For the 3th iteration of the cross validation, the non-pruned accuracy is 0.5041916167664671
+For the 4th iteration of the cross validation, the pruned accuracy is 0.5592814371257485
+For the 4th iteration of the cross validation, the non-pruned accuracy is 0.5329341317365269
+For the 5th iteration of the cross validation, the pruned accuracy is 0.5688622754491018
+For the 5th iteration of the cross validation, the non-pruned accuracy is 0.5473053892215569
+The average pruned accuracy is 0.555688622754491
+The average non-pruned accuracy is 0.521437125748503
+
+Segmentation:
+For the 1th iteration of the cross validation, the pruned accuracy is 0.7142857142857143
+For the 1th iteration of the cross validation, the non-pruned accuracy is 0.6904761904761905
+For the 2th iteration of the cross validation, the pruned accuracy is 0.8333333333333334
+For the 2th iteration of the cross validation, the non-pruned accuracy is 0.8095238095238095
+For the 3th iteration of the cross validation, the pruned accuracy is 0.8095238095238095
+For the 3th iteration of the cross validation, the non-pruned accuracy is 0.7380952380952381
+For the 4th iteration of the cross validation, the pruned accuracy is 0.7619047619047619
+For the 4th iteration of the cross validation, the non-pruned accuracy is 0.7142857142857143
+For the 5th iteration of the cross validation, the pruned accuracy is 0.8095238095238095
+For the 5th iteration of the cross validation, the non-pruned accuracy is 0.6904761904761905
+The average pruned accuracy is 0.7857142857142858
+The average non-pruned accuracy is 0.7285714285714286
+
+Car:
+For the 1th iteration of the cross validation, the pruned accuracy is 0.9449275362318841
+For the 1th iteration of the cross validation, the non-pruned accuracy is 0.9333333333333333
+For the 2th iteration of the cross validation, the pruned accuracy is 0.9159420289855073
+For the 2th iteration of the cross validation, the non-pruned accuracy is 0.9043478260869565
+For the 3th iteration of the cross validation, the pruned accuracy is 0.9043478260869565
+For the 3th iteration of the cross validation, the non-pruned accuracy is 0.8985507246376812
+For the 4th iteration of the cross validation, the pruned accuracy is 0.9333333333333333
+For the 4th iteration of the cross validation, the non-pruned accuracy is 0.927536231884058
+For the 5th iteration of the cross validation, the pruned accuracy is 0.9449275362318841
+For the 5th iteration of the cross validation, the non-pruned accuracy is 0.9217391304347826
+The average pruned accuracy is 0.9286956521739131
+The average non-pruned accuracy is 0.9171014492753624

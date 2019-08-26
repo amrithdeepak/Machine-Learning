@@ -1,0 +1,14 @@
+
+The features chosen are  ['4']  for SFS on the glass data.
+The best performance is  0.2 .
+
+The features chosen are  ['2', '1', '7', '5', '8', '9']  for SFS on the glass data with one feature (#4) removed.
+The best performance is  0.29333333333333333 .
+
+The features chosen are  ['1']  for SFS on the iris data.
+The best performance is  0.4473684210526316 .
+
+The features chosen are  ['0']  for SFS on the spambase data.
+The best performance is  0.6438746438746439 .
+
+

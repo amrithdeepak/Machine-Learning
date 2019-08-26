@@ -1,0 +1,512 @@
+
+Breast Cancer:
+
+Weights: 
+For class 0 the weights are
+ [ 1.87367093 -1.54042919 -0.98963667  0.52726993 -0.27897743 -1.04813989
+ -1.05729597 -0.81050977 -0.74060194]
+For class 1 the weights are
+ [-1.87367093  1.54042919  0.98963667 -0.52726993  0.27897743  1.04813989
+  1.05729597  0.81050977  0.74060194]
+
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+
+For the 1th iteration of the cross validation, the accuracy is 0.875
+For the 2th iteration of the cross validation, the accuracy is 0.9191176470588235
+For the 3th iteration of the cross validation, the accuracy is 0.9117647058823529
+For the 4th iteration of the cross validation, the accuracy is 0.9044117647058824
+For the 5th iteration of the cross validation, the accuracy is 0.9044117647058824
+The average accuracy is 0.9029411764705882
+
+Glass:
+
+Weights: 
+For class 0 the weights are
+ [ 1.94498694 -2.20616178 -0.77621926  0.53909233 -0.67826166 -1.02773875
+ -0.67525104 -0.72937308 -0.87981389]
+For class 1 the weights are
+ [-1.94498694  2.20616178  0.77621926 -0.53909233  0.67826166  1.02773875
+  0.67525104  0.72937308  0.87981389]
+
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+Predicted Value: 0 Actual Value: 1
+Predicted Value: 0 Actual Value: 0
+Predicted Value: 1 Actual Value: 0
+
+For the 1th iteration of the cross validation, the accuracy is 0.875
+For the 2th iteration of the cross validation, the accuracy is 0.9632352941176471
+For the 3th iteration of the cross validation, the accuracy is 0.8676470588235294
+For the 4th iteration of the cross validation, the accuracy is 0.875
+For the 5th iteration of the cross validation, the accuracy is 0.9338235294117647
+The average accuracy is 0.9029411764705882
+
+Iris:
+
+Weights: 
+For class Iris-setosa the weights are
+ [-2.87004319  5.39627089 -4.58393002 -4.01193407]
+For class Iris-versicolor the weights are
+ [-0.59023755 -1.99442906  1.68413309 -0.8731097 ]
+For class Iris-virginica the weights are
+ [ 1.88680986 -1.55029475 -2.04269069  1.26561821]
+
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-versicolor
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-versicolor
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-versicolor Actual Value: Iris-versicolor
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-versicolor
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-versicolor Actual Value: Iris-versicolor
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-versicolor
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-virginica Actual Value: Iris-virginica
+Predicted Value: Iris-setosa Actual Value: Iris-setosa
+Predicted Value: Iris-virginica Actual Value: Iris-versicolor
+
+For the 1th iteration of the cross validation, the accuracy is 0.8333333333333334
+For the 2th iteration of the cross validation, the accuracy is 0.7333333333333333
+For the 3th iteration of the cross validation, the accuracy is 0.6333333333333333
+For the 4th iteration of the cross validation, the accuracy is 0.7333333333333333
+For the 5th iteration of the cross validation, the accuracy is 0.7666666666666667
+The average accuracy is 0.74
+
+Soybean:
+
+Weights: 
+For class 1 the weights are
+ [ 0.40607117 -2.10106343  0.02591203  0.7234472  -1.03589645 -0.20156375
+ -1.30544809 -0.64790852 -0.34013172 -0.20395833  0.          0.03432624
+  0.          0.          0.          0.          0.          0.
+  0.         -0.2081307   1.93863192 -2.16356854  2.49610808  0.40532878
+ -0.93023365 -1.25579849 -1.25579849 -2.70523797  0.          0.
+  0.          0.          0.          0.         -1.09972   ]
+For class 2 the weights are
+ [ 0.45598778 -1.49242002 -1.92337392  0.04008315  0.35645084 -0.19218017
+  1.6205496  -1.05281836 -0.15202876 -0.17095455  0.         -0.44908475
+  0.          0.          0.          0.          0.          0.
+  0.         -0.17869868 -1.22558122  0.5094528  -0.8748787  -1.63038479
+ -0.29475038  1.67324854  1.67324854 -1.67826631  0.          0.
+  0.          0.          0.          0.         -1.21953959]
+For class 3 the weights are
+ [-0.39528083  0.35118976  0.95460328 -2.57658409 -0.09836752 -0.62592745
+ -0.31566445  0.14896845 -0.19089568  0.34185687  0.         -2.86292579
+  0.          0.          0.          0.          0.          0.
+  0.          0.42746762 -1.71570202 -2.64961605 -1.07184063  1.86882547
+  1.68204216 -0.2621038  -0.2621038   1.56509943  0.          0.
+  0.          0.          0.          0.         -1.44544388]
+For class 4 the weights are
+ [-2.87280967  0.26293778 -1.8351387   0.17028903  1.31919707 -0.05285413
+ -1.60699844  0.87329189 -0.17307731 -0.83378899  0.          1.48011024
+  0.          0.          0.          0.          0.          0.
+  0.         -0.54286105  1.5486869   2.76801463 -1.14965622 -3.05933358
+ -0.93179365 -2.40831106 -2.40831106 -0.007731    0.          0.
+  0.          0.          0.          0.          2.56971097]
+
+Predicted Value: 2 Actual Value: 2
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 3 Actual Value: 3
+Predicted Value: 2 Actual Value: 2
+Predicted Value: 4 Actual Value: 4
+Predicted Value: 1 Actual Value: 1
+Predicted Value: 4 Actual Value: 4
+Predicted Value: 2 Actual Value: 2
+Predicted Value: 3 Actual Value: 3
+
+For the 1th iteration of the cross validation, the accuracy is 1.0
+For the 2th iteration of the cross validation, the accuracy is 1.0
+For the 3th iteration of the cross validation, the accuracy is 1.0
+For the 4th iteration of the cross validation, the accuracy is 1.0
+For the 5th iteration of the cross validation, the accuracy is 1.0
+The average accuracy is 1.0
+
+Vote:
+
+Weights: 
+For class Democrat the weights are
+ [-0.25385725 -0.75707133 -3.73666607  8.5438267   0.30070528 -1.49206131
+  2.31378005  0.22547211 -2.72544088  3.01860753 -4.15852432  1.9394328
+ -0.71200659 -1.74814651 -1.07679366 -1.03161108]
+For class Republican the weights are
+ [ 0.25385725  0.75707133  3.73666607 -8.5438267  -0.30070528  1.49206131
+ -2.31378005 -0.22547211  2.72544088 -3.01860753  4.15852432 -1.9394328
+  0.71200659  1.74814651  1.07679366  1.03161108]
+
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+Predicted Value: Democrat Actual Value: Democrat
+Predicted Value: Republican Actual Value: Republican
+
+For the 1th iteration of the cross validation, the accuracy is 0.9883720930232558
+For the 2th iteration of the cross validation, the accuracy is 0.9302325581395349
+For the 3th iteration of the cross validation, the accuracy is 0.9651162790697675
+For the 4th iteration of the cross validation, the accuracy is 0.9186046511627907
+For the 5th iteration of the cross validation, the accuracy is 1.0
+The average accuracy is 0.9604651162790697
+

@@ -1,0 +1,40 @@
+Weights of Attributes:
+Attribute 0: 1.0 Attribute 1: 1.0 Attribute 2: 2.0 Attribute 3: 2.0 
+
+Weights of Attributes:
+Attribute 0: 0.5 Attribute 1: 0.5 Attribute 2: 2.0 Attribute 3: 2.0 
+
+Weights of Attributes:
+Attribute 0: 0.25 Attribute 1: 0.25 Attribute 2: 2.0 Attribute 3: 2.0 
+
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-setosa, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-setosa, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-setosa, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-setosa, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-setosa, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-setosa, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-virginica, Classification: Correct
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+Classifier from Winnow2 function: Iris-virginica, Actual Value: Iris-versicolor, Classification: Incorrect
+The total number of correct classifications are 9.
+The total number of incorrect classifications are 20.

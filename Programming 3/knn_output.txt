@@ -1,0 +1,268 @@
+
+Ecoli Data: 
+For the 1th iteration of the cross validation for k = 1, the accuracy is 0.9230769230769231
+For the 2th iteration of the cross validation for k = 1, the accuracy is 0.8615384615384616
+For the 3th iteration of the cross validation for k = 1, the accuracy is 0.6461538461538462
+For the 4th iteration of the cross validation for k = 1, the accuracy is 0.35384615384615387
+For the 5th iteration of the cross validation for k = 1, the accuracy is 0.2
+The average accuracy for k = 1 is 0.596923076923077
+
+For the 1th iteration of the cross validation for k = 2, the accuracy is 0.9230769230769231
+For the 2th iteration of the cross validation for k = 2, the accuracy is 0.8615384615384616
+For the 3th iteration of the cross validation for k = 2, the accuracy is 0.6461538461538462
+For the 4th iteration of the cross validation for k = 2, the accuracy is 0.35384615384615387
+For the 5th iteration of the cross validation for k = 2, the accuracy is 0.2
+The average accuracy for k = 2 is 0.596923076923077
+
+For the 1th iteration of the cross validation for k = 3, the accuracy is 0.8
+For the 2th iteration of the cross validation for k = 3, the accuracy is 0.8153846153846154
+For the 3th iteration of the cross validation for k = 3, the accuracy is 0.5384615384615384
+For the 4th iteration of the cross validation for k = 3, the accuracy is 0.3076923076923077
+For the 5th iteration of the cross validation for k = 3, the accuracy is 0.15384615384615385
+The average accuracy for k = 3 is 0.5230769230769231
+
+For the 1th iteration of the cross validation for k = 4, the accuracy is 0.7692307692307693
+For the 2th iteration of the cross validation for k = 4, the accuracy is 0.7846153846153846
+For the 3th iteration of the cross validation for k = 4, the accuracy is 0.5538461538461539
+For the 4th iteration of the cross validation for k = 4, the accuracy is 0.3384615384615385
+For the 5th iteration of the cross validation for k = 4, the accuracy is 0.16923076923076924
+The average accuracy for k = 4 is 0.5230769230769231
+
+For the 1th iteration of the cross validation for k = 5, the accuracy is 0.6923076923076923
+For the 2th iteration of the cross validation for k = 5, the accuracy is 0.7384615384615385
+For the 3th iteration of the cross validation for k = 5, the accuracy is 0.49230769230769234
+For the 4th iteration of the cross validation for k = 5, the accuracy is 0.3076923076923077
+For the 5th iteration of the cross validation for k = 5, the accuracy is 0.12307692307692308
+The average accuracy for k = 5 is 0.4707692307692308
+
+For the 1th iteration of the cross validation for k = 6, the accuracy is 0.6923076923076923
+For the 2th iteration of the cross validation for k = 6, the accuracy is 0.676923076923077
+For the 3th iteration of the cross validation for k = 6, the accuracy is 0.49230769230769234
+For the 4th iteration of the cross validation for k = 6, the accuracy is 0.3230769230769231
+For the 5th iteration of the cross validation for k = 6, the accuracy is 0.046153846153846156
+The average accuracy for k = 6 is 0.4461538461538462
+
+For the 1th iteration of the cross validation for k = 7, the accuracy is 0.6307692307692307
+For the 2th iteration of the cross validation for k = 7, the accuracy is 0.6615384615384615
+For the 3th iteration of the cross validation for k = 7, the accuracy is 0.4153846153846154
+For the 4th iteration of the cross validation for k = 7, the accuracy is 0.3076923076923077
+For the 5th iteration of the cross validation for k = 7, the accuracy is 0.046153846153846156
+The average accuracy for k = 7 is 0.41230769230769226
+
+For the 1th iteration of the cross validation for k = 8, the accuracy is 0.5846153846153846
+For the 2th iteration of the cross validation for k = 8, the accuracy is 0.6461538461538462
+For the 3th iteration of the cross validation for k = 8, the accuracy is 0.35384615384615387
+For the 4th iteration of the cross validation for k = 8, the accuracy is 0.3076923076923077
+For the 5th iteration of the cross validation for k = 8, the accuracy is 0.03076923076923077
+The average accuracy for k = 8 is 0.3846153846153847
+
+For the 1th iteration of the cross validation for k = 9, the accuracy is 0.5538461538461539
+For the 2th iteration of the cross validation for k = 9, the accuracy is 0.5846153846153846
+For the 3th iteration of the cross validation for k = 9, the accuracy is 0.3384615384615385
+For the 4th iteration of the cross validation for k = 9, the accuracy is 0.3076923076923077
+For the 5th iteration of the cross validation for k = 9, the accuracy is 0.03076923076923077
+The average accuracy for k = 9 is 0.36307692307692313
+
+The best k value is 1 with accuracy 0.596923076923077
+
+
+Segmentation Data: 
+For the 1th iteration of the cross validation for k = 1, the accuracy is 0.2857142857142857
+For the 2th iteration of the cross validation for k = 1, the accuracy is 0.6666666666666666
+For the 3th iteration of the cross validation for k = 1, the accuracy is 0.21428571428571427
+For the 4th iteration of the cross validation for k = 1, the accuracy is 0.5
+For the 5th iteration of the cross validation for k = 1, the accuracy is 0.2619047619047619
+The average accuracy for k = 1 is 0.3857142857142857
+
+For the 1th iteration of the cross validation for k = 2, the accuracy is 0.2857142857142857
+For the 2th iteration of the cross validation for k = 2, the accuracy is 0.6666666666666666
+For the 3th iteration of the cross validation for k = 2, the accuracy is 0.21428571428571427
+For the 4th iteration of the cross validation for k = 2, the accuracy is 0.5
+For the 5th iteration of the cross validation for k = 2, the accuracy is 0.2619047619047619
+The average accuracy for k = 2 is 0.3857142857142857
+
+For the 1th iteration of the cross validation for k = 3, the accuracy is 0.2857142857142857
+For the 2th iteration of the cross validation for k = 3, the accuracy is 0.6904761904761905
+For the 3th iteration of the cross validation for k = 3, the accuracy is 0.21428571428571427
+For the 4th iteration of the cross validation for k = 3, the accuracy is 0.3333333333333333
+For the 5th iteration of the cross validation for k = 3, the accuracy is 0.2619047619047619
+The average accuracy for k = 3 is 0.3571428571428571
+
+For the 1th iteration of the cross validation for k = 4, the accuracy is 0.2857142857142857
+For the 2th iteration of the cross validation for k = 4, the accuracy is 0.6666666666666666
+For the 3th iteration of the cross validation for k = 4, the accuracy is 0.19047619047619047
+For the 4th iteration of the cross validation for k = 4, the accuracy is 0.38095238095238093
+For the 5th iteration of the cross validation for k = 4, the accuracy is 0.2619047619047619
+The average accuracy for k = 4 is 0.3571428571428571
+
+For the 1th iteration of the cross validation for k = 5, the accuracy is 0.2857142857142857
+For the 2th iteration of the cross validation for k = 5, the accuracy is 0.7142857142857143
+For the 3th iteration of the cross validation for k = 5, the accuracy is 0.14285714285714285
+For the 4th iteration of the cross validation for k = 5, the accuracy is 0.2619047619047619
+For the 5th iteration of the cross validation for k = 5, the accuracy is 0.2619047619047619
+The average accuracy for k = 5 is 0.3333333333333333
+
+For the 1th iteration of the cross validation for k = 6, the accuracy is 0.2857142857142857
+For the 2th iteration of the cross validation for k = 6, the accuracy is 0.7619047619047619
+For the 3th iteration of the cross validation for k = 6, the accuracy is 0.19047619047619047
+For the 4th iteration of the cross validation for k = 6, the accuracy is 0.30952380952380953
+For the 5th iteration of the cross validation for k = 6, the accuracy is 0.21428571428571427
+The average accuracy for k = 6 is 0.35238095238095235
+
+For the 1th iteration of the cross validation for k = 7, the accuracy is 0.2619047619047619
+For the 2th iteration of the cross validation for k = 7, the accuracy is 0.7619047619047619
+For the 3th iteration of the cross validation for k = 7, the accuracy is 0.11904761904761904
+For the 4th iteration of the cross validation for k = 7, the accuracy is 0.2857142857142857
+For the 5th iteration of the cross validation for k = 7, the accuracy is 0.21428571428571427
+The average accuracy for k = 7 is 0.3285714285714285
+
+For the 1th iteration of the cross validation for k = 8, the accuracy is 0.2619047619047619
+For the 2th iteration of the cross validation for k = 8, the accuracy is 0.7380952380952381
+For the 3th iteration of the cross validation for k = 8, the accuracy is 0.07142857142857142
+For the 4th iteration of the cross validation for k = 8, the accuracy is 0.14285714285714285
+For the 5th iteration of the cross validation for k = 8, the accuracy is 0.16666666666666666
+The average accuracy for k = 8 is 0.2761904761904762
+
+For the 1th iteration of the cross validation for k = 9, the accuracy is 0.23809523809523808
+For the 2th iteration of the cross validation for k = 9, the accuracy is 0.5714285714285714
+For the 3th iteration of the cross validation for k = 9, the accuracy is 0.07142857142857142
+For the 4th iteration of the cross validation for k = 9, the accuracy is 0.11904761904761904
+For the 5th iteration of the cross validation for k = 9, the accuracy is 0.16666666666666666
+The average accuracy for k = 9 is 0.23333333333333334
+
+The best k value is 1 with accuracy 0.3857142857142857
+
+
+Machine Data: 
+For the 1th iteration of the cross validation for k= 1, the mean square error is 46032.95121951219
+For the 2th iteration of the cross validation for k= 1, the mean square error is 7617.804878048781
+For the 3th iteration of the cross validation for k= 1, the mean square error is 16886.365853658535
+For the 4th iteration of the cross validation for k= 1, the mean square error is 24879.853658536584
+For the 5th iteration of the cross validation for k= 1, the mean square error is 62043.51219512195
+The average mean square error for k = 1 is 31492.097560975606
+
+For the 1th iteration of the cross validation for k= 2, the mean square error is 44358.93292682927
+For the 2th iteration of the cross validation for k= 2, the mean square error is 6508.6890243902435
+For the 3th iteration of the cross validation for k= 2, the mean square error is 13710.036585365853
+For the 4th iteration of the cross validation for k= 2, the mean square error is 21119.993902439026
+For the 5th iteration of the cross validation for k= 2, the mean square error is 61316.98780487805
+The average mean square error for k = 2 is 29402.92804878049
+
+For the 1th iteration of the cross validation for k= 3, the mean square error is 44018.216802168005
+For the 2th iteration of the cross validation for k= 3, the mean square error is 5865.8915989159905
+For the 3th iteration of the cross validation for k= 3, the mean square error is 14788.037940379403
+For the 4th iteration of the cross validation for k= 3, the mean square error is 19610.16260162602
+For the 5th iteration of the cross validation for k= 3, the mean square error is 57209.10840108402
+The average mean square error for k = 3 is 28298.28346883469
+
+For the 1th iteration of the cross validation for k= 4, the mean square error is 44628.90853658537
+For the 2th iteration of the cross validation for k= 4, the mean square error is 4830.227134146341
+For the 3th iteration of the cross validation for k= 4, the mean square error is 13337.88262195122
+For the 4th iteration of the cross validation for k= 4, the mean square error is 19037.864329268294
+For the 5th iteration of the cross validation for k= 4, the mean square error is 54835.5381097561
+The average mean square error for k = 4 is 27334.084146341465
+
+For the 1th iteration of the cross validation for k= 5, the mean square error is 45723.50048780488
+For the 2th iteration of the cross validation for k= 5, the mean square error is 4323.349268292683
+For the 3th iteration of the cross validation for k= 5, the mean square error is 12890.348292682931
+For the 4th iteration of the cross validation for k= 5, the mean square error is 17571.25365853658
+For the 5th iteration of the cross validation for k= 5, the mean square error is 56403.17463414636
+The average mean square error for k = 5 is 27382.325268292683
+
+For the 1th iteration of the cross validation for k= 6, the mean square error is 45942.47764227641
+For the 2th iteration of the cross validation for k= 6, the mean square error is 4146.843495934961
+For the 3th iteration of the cross validation for k= 6, the mean square error is 12337.004742547422
+For the 4th iteration of the cross validation for k= 6, the mean square error is 18351.326558265584
+For the 5th iteration of the cross validation for k= 6, the mean square error is 54988.006097560974
+The average mean square error for k = 6 is 27153.131707317072
+
+For the 1th iteration of the cross validation for k= 7, the mean square error is 45263.26281732205
+For the 2th iteration of the cross validation for k= 7, the mean square error is 4299.593827775012
+For the 3th iteration of the cross validation for k= 7, the mean square error is 12213.453459432552
+For the 4th iteration of the cross validation for k= 7, the mean square error is 18033.309109009457
+For the 5th iteration of the cross validation for k= 7, the mean square error is 54616.41264310602
+The average mean square error for k = 7 is 26885.20637132902
+
+For the 1th iteration of the cross validation for k= 8, the mean square error is 45103.04306402439
+For the 2th iteration of the cross validation for k= 8, the mean square error is 3956.3849085365855
+For the 3th iteration of the cross validation for k= 8, the mean square error is 12593.444740853658
+For the 4th iteration of the cross validation for k= 8, the mean square error is 17539.419969512193
+For the 5th iteration of the cross validation for k= 8, the mean square error is 55670.12728658537
+The average mean square error for k = 8 is 26972.483993902442
+
+For the 1th iteration of the cross validation for k= 9, the mean square error is 44972.366154772644
+For the 2th iteration of the cross validation for k= 9, the mean square error is 4192.052393857272
+For the 3th iteration of the cross validation for k= 9, the mean square error is 12146.657633242996
+For the 4th iteration of the cross validation for k= 9, the mean square error is 16896.435411020782
+For the 5th iteration of the cross validation for k= 9, the mean square error is 56488.49202047576
+The average mean square error for k = 9 is 26939.20072267389
+
+The best k value is 7 with average mean square error 26885.20637132902
+
+
+Forest Fire Data: 
+For the 1th iteration of the cross validation for k= 1, the mean square error is 18579.194174757282
+For the 2th iteration of the cross validation for k= 1, the mean square error is 22782.99008834952
+For the 3th iteration of the cross validation for k= 1, the mean square error is 75692.80843009707
+For the 4th iteration of the cross validation for k= 1, the mean square error is 80577.90626796117
+For the 5th iteration of the cross validation for k= 1, the mean square error is 86722.62977961166
+The average mean square error for k = 1 is 56871.10574815534
+
+For the 1th iteration of the cross validation for k= 2, the mean square error is 15675.184466019418
+For the 2th iteration of the cross validation for k= 2, the mean square error is 20488.864263106803
+For the 3th iteration of the cross validation for k= 2, the mean square error is 63928.64949805823
+For the 4th iteration of the cross validation for k= 2, the mean square error is 83762.14927766992
+For the 5th iteration of the cross validation for k= 2, the mean square error is 85238.96308058253
+The average mean square error for k = 2 is 53818.762117087375
+
+For the 1th iteration of the cross validation for k= 3, the mean square error is 16153.540453074433
+For the 2th iteration of the cross validation for k= 3, the mean square error is 17943.454597518874
+For the 3th iteration of the cross validation for k= 3, the mean square error is 61271.05693063646
+For the 4th iteration of the cross validation for k= 3, the mean square error is 86701.24575016178
+For the 5th iteration of the cross validation for k= 3, the mean square error is 82301.65575587915
+The average mean square error for k = 3 is 52874.19069745415
+
+For the 1th iteration of the cross validation for k= 4, the mean square error is 16963.584951456312
+For the 2th iteration of the cross validation for k= 4, the mean square error is 15940.88081650486
+For the 3th iteration of the cross validation for k= 4, the mean square error is 60011.395153398065
+For the 4th iteration of the cross validation for k= 4, the mean square error is 82260.10342815534
+For the 5th iteration of the cross validation for k= 4, the mean square error is 80262.97225533983
+The average mean square error for k = 4 is 51087.787320970885
+
+For the 1th iteration of the cross validation for k= 5, the mean square error is 17637.460582524265
+For the 2th iteration of the cross validation for k= 5, the mean square error is 16496.925622330105
+For the 3th iteration of the cross validation for k= 5, the mean square error is 59530.67510970873
+For the 4th iteration of the cross validation for k= 5, the mean square error is 76072.95939417474
+For the 5th iteration of the cross validation for k= 5, the mean square error is 77853.43339126215
+The average mean square error for k = 5 is 49518.290819999995
+
+For the 1th iteration of the cross validation for k= 6, the mean square error is 18004.497033441192
+For the 2th iteration of the cross validation for k= 6, the mean square error is 16216.737326752966
+For the 3th iteration of the cross validation for k= 6, the mean square error is 58394.18028554477
+For the 4th iteration of the cross validation for k= 6, the mean square error is 72955.75382998919
+For the 5th iteration of the cross validation for k= 6, the mean square error is 77968.86041607334
+The average mean square error for k = 6 is 48708.0057783603
+
+For the 1th iteration of the cross validation for k= 7, the mean square error is 18754.27600554784
+For the 2th iteration of the cross validation for k= 7, the mean square error is 15955.03538258371
+For the 3th iteration of the cross validation for k= 7, the mean square error is 54751.81428307905
+For the 4th iteration of the cross validation for k= 7, the mean square error is 70073.98675141668
+For the 5th iteration of the cross validation for k= 7, the mean square error is 77369.88805977805
+The average mean square error for k = 7 is 47381.00009648107
+
+For the 1th iteration of the cross validation for k= 8, the mean square error is 19025.44811893204
+For the 2th iteration of the cross validation for k= 8, the mean square error is 16147.762649029128
+For the 3th iteration of the cross validation for k= 8, the mean square error is 52267.31510485437
+For the 4th iteration of the cross validation for k= 8, the mean square error is 68075.90103131068
+For the 5th iteration of the cross validation for k= 8, the mean square error is 76119.37746771844
+The average mean square error for k = 8 is 46327.160874368936
+
+For the 1th iteration of the cross validation for k= 9, the mean square error is 19485.58384274242
+For the 2th iteration of the cross validation for k= 9, the mean square error is 16435.67606461704
+For the 3th iteration of the cross validation for k= 9, the mean square error is 49844.44954480402
+For the 4th iteration of the cross validation for k= 9, the mean square error is 64418.593011338846
+For the 5th iteration of the cross validation for k= 9, the mean square error is 75184.42511941744
+The average mean square error for k = 9 is 45073.74551658395
+
+The best k value is 9 with average mean square error 45073.74551658395
+

@@ -1,0 +1,32 @@
+
+Glass Data:
+
+The average silhoutte coefficient is  0.8340472684826766
+Cluster mean  0.51 Classified Class  1
+Cluster mean  0.8425 Classified Class  2
+Cluster mean  1.2525714285714287 Classified Class  3
+Cluster mean  1.5497435897435898 Classified Class  6
+Cluster mean  1.9717647058823529 Classified Class  7
+Cluster mean  2.398 Classified Class  4
+Cluster mean  2.83 Classified Class  5
+There are  8  correct classifications and  42  incorrect classifications giving an accuracy of  0.16
+The cluster means are  [0.51, 0.8425, 1.2525714285714287, 1.5497435897435898, 1.9717647058823529, 2.398, 2.83]
+
+Iris Data:
+
+The average silhoutte coefficient is  0.669132270848002
+Cluster mean  2.5942857142857143 Classified Class  2
+Cluster mean  3.1540983606557376 Classified Class  1
+Cluster mean  3.85625 Classified Class  3
+There are  12  correct classifications and  26  incorrect classifications giving an accuracy of  0.3157894736842105
+The cluster means are  [2.5942857142857143, 3.1540983606557376, 3.85625]
+
+Spambase Data:
+
+The average silhoutte coefficient is  0.8766852462245373
+Cluster mean  0.03763194252555955 Classified Class  1
+Cluster mean  0.9513214285714285 Classified Class  2
+There are  447  correct classifications and  255  incorrect classifications giving an accuracy of  0.6367521367521367
+The cluster means are  [0.03763194252555955, 0.9513214285714285]
+
+
